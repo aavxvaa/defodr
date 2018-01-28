@@ -26,7 +26,8 @@ def class(object)=name
 
 def class(object)=name
     def name0=$include
-        for $include==()
+        for $include==(
+        )
     return
     else  return 0
     
