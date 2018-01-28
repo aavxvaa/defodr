@@ -29,8 +29,9 @@ def editor(jazz,$,time)
     else name_bad=robot:
         print F
     else name_who$==bad：
-        return name_who$=0   
-    
+        return name_who$=0  
+        
+
 
 
 
