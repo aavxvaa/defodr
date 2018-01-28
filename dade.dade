@@ -20,7 +20,12 @@ def name(robot,listen):
     else name_who$==bad
        print F
         
-def name         
+def class(object)=name
+def name==editor
+    return
+def editor(jazz,$,time)
+    if @editor_name==name.py
+        return  @editor_name=name_who$ name_who$=jazz
     
 
 
