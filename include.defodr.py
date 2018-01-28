@@ -46,9 +46,7 @@ def class(object)=name
     __ will __
     def name15=function:$include
     def name16=Philosophy:$include   
-    __Buddhism __    __ Taoist__ __religion __ __ partisan__ __ ideology __  __ Duke Marquis__ 
-
-__ names __ __ geography __ __ planet name __ __ country name __ 
+    __Buddhism __    __ Taoist__ __religion __ __ partisan__ __ ideology __  __ Duke Marquis__ __ names __ __ geography __ __ planet name __ __ country name __ 
 
     def name17=Name:$include     __ Last Name __ __ Family __
     def name18=Time:$include      __ year __ __ month __ __ day __ __ past now future __
