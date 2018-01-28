@@ -1,11 +1,30 @@
+@liujian
+
 @@@MainKeys@@@
 |/|/|$__@ &：：(|)
-Breeding:$include   
-    __ fertility __ __ mating __
-Kill:$include   __ disease __ __ death __ __ kill __
-Good:$include   __ pharmacist __ __ selfish __
-Bad:$include   __ Amitabha __ __ altruism __
-public:$include
+
+def class(object)=name
+def name=Breeding(  
+    __ fertility __ ,__ mating __)
+    return
+    
+def class(object)=name  
+def name=Kill( __ disease __， __ death __， __ kill __)
+    return
+    
+def class(object)=name 
+def name=Good（ __ pharmacist __， __ selfish __）
+    return
+    
+def class(object)=name 
+def name=Bad（ __ Amitabha __ ，__ altruism __）
+    return
+    
+def class(object)=name
+def name=public
+    return
+    
+def class(object)=name    
 mother:$include
 Memory:$include
     __ storage __
@@ -92,3 +111,5 @@ Thespacestate_for.DADE. million years. Missionary. Five. Propagation. Diffusion.
 Space state for.DADE. million years. Missionary. Five. Propagation. Diffusion. Robot. Infinity|]
 Space state.DADE. author.Uygrsword. ususurli. Liu Jian
 The.DADE. helper of the space state. The author of the author.）
+
+if  __name__ == '__main__' 
