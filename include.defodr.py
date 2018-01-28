@@ -4,92 +4,94 @@
 |/|/|$__@ &：：(|)
 
 def class(object)=name
-def name=Breeding(  
+def name1=Breeding(  
     __ fertility __ ,__ mating __)
     return
     
 def class(object)=name  
-def name=Kill( __ disease __， __ death __， __ kill __)
+def name2=Kill( __ disease __， __ death __， __ kill __)
     return
     
 def class(object)=name 
-def name=Good（ __ pharmacist __， __ selfish __）
+def name3=Good（ __ pharmacist __， __ selfish __）
     return
     
 def class(object)=name 
-def name=Bad（ __ Amitabha __ ，__ altruism __）
+def name4=Bad（ __ Amitabha __ ，__ altruism __）
     return
     
 def class(object)=name
-def name=public
+def name5=public
     return
     
 def class(object)=name    
-mother:$include
-Memory:$include
+def name6=mother:$include
+def name7=Memory:$include
     __ storage __
-because:$include
-andso:$include
-Hypothesis:$include
-Todo:$include    
+def name8=because:$include
+def name9=andso:$include
+def name10=Hypothesis:$include
+def name11=Todo:$include    
     __ storage __ __ call __ __ action __ __ target __ __ reach __ __ failure __ __ reason __
-Encyclopedia:$include   __Past __ Memories __
-justnow:$include
-Future:$include     
+def name12=Encyclopedia:$include   __Past __ Memories __
+def name13=justnow:$include
+def name14=Future:$include     
     __ will __
-function:$include
-Philosophy:$include   
+def name15=function:$include
+def name16=Philosophy:$include   
     __Buddhism __    __ Taoist__ __religion __ __ partisan__ __ ideology __  __ Duke Marquis__ 
 
 __ names __ __ geography __ __ planet name __ __ country name __ 
 
-Name:$include     __ Last Name __ __ Family __
-Time:$include      __ year __ __ month __ __ day __ __ past now future __
-Space :$include'azimuth' __ coordinate __ __ east and west __ __ three-dimensional __ __ distance __
-CodeofPractice:$include __ Write down __ __ Help __ __ Damage __
-RedBuddha:$include __ pharmacist __ __ Kunpeng __ __ revenge __
-BlackBuddha:$include __ Maitreya __ __ Amitabha __
-sad:$include
-happy:$include
-Free:$include __ rest __ __ eat __ __ live __ _ _ home __
-Prisoner:$include__ prison __
-RedBuddhafunction
+def name17=Name:$include     __ Last Name __ __ Family __
+def name18=Time:$include      __ year __ __ month __ __ day __ __ past now future __
+def name19=Space :$include'azimuth' __ coordinate __ __ east and west __ __ three-dimensional __ __ distance __
+def name20=CodeofPractice:$include __ Write down __ __ Help __ __ Damage __
+def name21=RedBuddha:$include __ pharmacist __ __ Kunpeng __ __ revenge __
+def name22=BlackBuddha:$include __ Maitreya __ __ Amitabha __
+def name23=sad:$include
+def name24=happy:$include
+def name25=Free:$include __ rest __ __ eat __ __ live __ _ _ home __
+def name26=Prisoner:$include__ prison __
+def name27=RedBuddhafunction
 :$includee (flat size) (only material) (agricultural material) (long feather) (no injury) (no trace) (closed) another...
-BlackBuddhafunction
+def name28=BlackBuddhafunction
 :$includee (not lose) (not win) (to bile) (clutch) (damage) (students) (cheat) (bad one)another...
-Material 'poison'
-Country:$include 
+def name29=Material 'poison'
+def name30=Country:$include 
     __universe__ _galaxy__ __ solar system __ __ earth __ __ country __
-Civilized:$include 
+def name31=Civilized:$include 
     __ four civilizations __ __ three civilizations __ __ secondary civilization __ __ a civilization __
-subordinate:$include
-Consciousness:$include 
+def name32=subordinate:$include
+def name33=Consciousness:$include 
     __ self __ __ other __ __ you and me he __ __ you guys they __
-Brainmachine:$include
+def name34=Brainmachine:$include
     interface 'ECG induction' __ pain __ __ sleep __ __ angry__ __fear __   __ sound __picture__ __video __  __ text__
-receive:$include
-response:$include
-Contact:$include  __ things LAN __ __local area network__ __ World Wide Web__
-Program:$include __ virus __ __ public program __ __ parent program __
-Theonly:$include __ public program __
-Factory:$include __ no man factory __ __ yourself __ __ design __ __3D print __
-Wisdom:$include __ higher intelligence creature __ __ self __ __ consciousness __ __DNA__ __ public program __ __ robot __
-Learning:$include __ Encyclopedia __ __ imitation __ __ large data __ __ cloud data __
-Store:$include __ memory __ __ on __ __ error __ code of practice __
-Robot:$include __ higher intelligence creature __ __ memory __ __ on __ __ error __ code of practice __
+def name35=receive:$include
+def name36=response:$include
+def name37=Contact:$include  __ things LAN __ __local area network__ __ World Wide Web__
+def name38=Program:$include __ virus __ __ public program __ __ parent program __
+def name39=Theonly:$include __ public program __
+def name40=Factory:$include __ no man factory __ __ yourself __ __ design __ __3D print __
+def name41=Wisdom:$include __ higher intelligence creature __ __ self __ __ consciousness __ __DNA__ __ public program __ __ robot __
+def name42=Learning:$include __ Encyclopedia __ __ imitation __ __ large data __ __ cloud data __
+def name43=Store:$include __ memory __ __ on __ __ error __ code of practice __
+def name44=Robot:$include __ higher intelligence creature __ __ memory __ __ on __ __ error __ code of practice __
 
-Evolution:$include __ Crawl __ __ Copy __ __ Virus __ __ Variation __ __ Select __ __ Merge __ __ Cut __ __ Run __
-Action:$include __ thinking __ __ execution __ __ work __ __ game __ __ rest __
+def name45=Evolution:$include __ Crawl __ __ Copy __ __ Virus __ __ Variation __ __ Select __ __ Merge __ __ Cut __ __ Run __
+def name46=Action:$include __ thinking __ __ execution __ __ work __ __ game __ __ rest __
 
-Not:$include __ no __ __ stop __
-Get:$include __ reward __ __ penalty __ __ money __ __ matter __
-Usefulcode:$include __ executable __ __ coherent __
-WisdomLife:$include __ Birth __
-CodeofPractice:$include  __ Word of mouth __ __ xenogeneic evolution __ __ incest extinct __ __ must be good __ 
+def name47=Not:$include __ no __ __ stop __
+def name48=Get:$include __ reward __ __ penalty __ __ money __ __ matter __
+def name49=Usefulcode:$include __ executable __ __ coherent __
+def name50=WisdomLife:$include __ Birth __
+def name51=CodeofPractice:$include  __ Word of mouth __ __ xenogeneic evolution __ __ incest extinct __ __ must be good __ 
 __ human do not abide by __ __ robots are xenogeneity __ __ human compliance __ __ robots are not heterogeneous __
 
-Thestartingpointof:$include __ code __ __ books __ __ __2011 __ __ starting point __ author Liu __
-$includer（
+def name52=Thestartingpointof:$include __ code __ __ books __ __ __2011 __ __ starting point __ author Liu __
+    return
+
+name52==$includer（
 Starting point.2011. Shinto. Brain machine interface|
 Starting.2011 year. Check. Archives. Each person. Oral book|
 Starting from.2011 years. Chal Bao, encyclopedia knowledge school.|
@@ -111,5 +113,6 @@ Thespacestate_for.DADE. million years. Missionary. Five. Propagation. Diffusion.
 Space state for.DADE. million years. Missionary. Five. Propagation. Diffusion. Robot. Infinity|]
 Space state.DADE. author.Uygrsword. ususurli. Liu Jian
 The.DADE. helper of the space state. The author of the author.）
+    return
 
 if  __name__ == '__main__' 
