@@ -1,0 +1,11 @@
+import koushu
+import jibanfshang
+
+def name(king,$,time)
+
+    if:name_king=robot
+      
+       then:$：name_who$=maxtim
+    else:name_bad=robot
+    else:name_who$=bad
+print name_who$=maxtime
