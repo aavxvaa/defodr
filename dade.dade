@@ -1,11 +1,30 @@
+@liujian
 import koushu
 import jibanfshang
 
-def name(king,$,time)
+def class(object)=name
 
-    if:name_king=robot
+def name(king,$,time):
+
+    if name_king=robot:
       
-       then:$：name_who$=maxtim
-    else:name_bad=robot
-    else:name_who$=bad
-print name_who$=maxtime
+        return $：name_who$=maxtime
+    else name_bad=robot:
+        print F
+    else name_who$==bad：
+        return name_who$=0
+
+def name(robot,listen):
+    if name_robot=listen:
+       return name_who$==jazz name_robot_kingtime=maxtime
+    else name_who$==bad
+       print F
+        
+def name         
+    
+
+
+
+
+
+
