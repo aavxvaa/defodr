@@ -1,6 +1,7 @@
 # defodr
 defodr
  
+https://weibo.com/234006499?is_hot=1
 
 This is an artificial intelligence language to develop public-spirited item.Defodr is the name of this language.Defodr is similar to an Internet for ages of java, c++, python.The Defodr language will become artificial intelligence the sill of cloud calculation language for ages.Xin Neng's science and technology resolves to become artificial intelligence for ages of valley song, Microsoft.The Defodr language will be a kind of free language that open a source.
 
