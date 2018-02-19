@@ -1,6 +1,9 @@
 Defodr language 1.0
 
-Hundreds of millions of people will be a good-Kaiyuan, credit currency, billions of dollars and so on. Hundreds of trillions are just the beginning, and the value of the future will be infinite over time. Hundreds of millions... Hundreds of millions... Hundreds of millions. Class, capitalism is to save people. It is not enough to save a wise man and see his power. The regional chain has so far lost $1 tillion. 
+Hundreds of millions of people will be a good-Kaiyuan, credit currency, billions of dollars and so on. 
+  Hundreds of trillions are just the beginning, and the value of the future will be infinite over time. 
+  Hundreds of millions... Hundreds of millions... Hundreds of millions. Class, capitalism is to save people. 
+  It is not enough to save a wise man and see his power. The regional chain has so far lost $1 tillion. 
 
 Millions, private chats, bed coins. 
 
