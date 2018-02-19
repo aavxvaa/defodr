@@ -52,10 +52,91 @@ Eatingslaves.
 Butterfly. 
 Firedinosaurs. 
 
-Thousandsofdollars. 
-Anewera. 
-$. 
-Housing. 
+defodr language demonstration format
+
+Hundreds of millions of people will be a kind of good-kai coin, credit coin, billions of billions, and so on. Millions of billions are just the beginning, and the future value will be infinite with time. Hundreds of millions ... Hundreds of millions ... Hundreds of millions. Class, capitalism is to save people. It is not enough to save smart people and see your own ability. Regional chain up to now, a trillion dollars less by one person.
+
+Million, private chat, bed currency.
+
+Awhole
+Talklocally
+Godisnothurt
+Athousandtrillion
+Interest-freeloans
+mysalary
+housekeeper
+Millionlevel
+Minute
+Generationcoins
+Inheritancecoins
+Tothevillage
+Towomen
+Interviewcurrency
+SeethisCong
+Sendandreceive
+Talklocally
+Godisnothurt
+Housekeepersalary
+Wanttodrop
+
+defodr language
+Themessenger
+砗 磲cursehasmoney
+砗 磲 beads
+Tinrod
+worldmap
+i
+Geoduck
+砗 磲 crab
+Wreckskeletonpeople
+returntothepast
+hi
+Lantern i
+Halftheproject
+Timepoint
+Onthepower
+Takethebag
+Opentheseadoor
+Eatinganddrinkingslaves
+
+butterfly
+Fire dinosaurs
+
+Athousandtrillion
+ntimesn
+n = $
+Housekeepersalary
+
+Earth
+i
+Notdown
+Alittleplay
+Throwthatfar
+
+dade empire
+Live
+
+Flash collapse
+Notflash collapse
+Not flash collapse
+
+Trillionrich
+Minute
+Minute
+SpaceState
+country
+
+Not
+Short-termcurrency
+Regretcoins
+
+Millionsofyears
+
+nexttime
+
+donotknow
+
+Who
 
 Earth. 
 I. 
