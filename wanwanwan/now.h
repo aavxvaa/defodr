@@ -1,3 +1,6 @@
+idea/
+  pycharm
+
 Searchnear
 TargetcountryEnglish.
 hour
